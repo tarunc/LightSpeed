@@ -34,7 +34,7 @@ SPACE - the ship stops moving forward (stars don't move towards you anymore)
 Homepage: http://tarunchaudhry.com/lightspeed
 Live DEMO: http://tarunchaudhry.com/lightspeed/demo
 
-
+Code is Copyright (c) 2011 Tarun Chaudhry
 
 LICENSE:
 GNU GPL v3
