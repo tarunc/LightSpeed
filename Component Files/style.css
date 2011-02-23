@@ -1,0 +1,18 @@
+body{
+	margin:0; 
+	padding:0;
+	background-color:#000000; /* Set the color to black to create a spacelike effect. */
+	font-size:0;
+	overflow:hidden; /* Overflow needs to be hidden because we don't want to see offscreen objects  */
+}
+div{
+	margin:0;
+	padding:0;
+	position:absolute;
+	font-size:0;
+	overflow:hidden; /* Overflow needs to be hidden because we don't want to see offscreen objects  */
+}
+canvas{
+	background-color:#000000; /* Set the color to black to create a spacelike effect. */
+	overflow:hidden; /* Overflow needs to be hidden because we don't want to see offscreen objects  */
+}
