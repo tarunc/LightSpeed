@@ -12,8 +12,7 @@
               
             
               
-Homepage: http://tarunchaudhry.com/lightspeed
-Live DEMO: http://tarunchaudhry.com/lightspeed/demo
+Live Demo: http://jsbin.com/pikek
 
 Lightspeed is a visually stunning animation of a spaceship traveling through 
 space I built using a little HTML5, clever JavaScript, and some CSS. 
@@ -31,10 +30,9 @@ Mouse Click or ENTER or RETURN - makes the ship travel at lightspeed
 P - pauses the animation
 SPACE - the ship stops moving forward (stars don't move towards you anymore)
 
-Homepage: http://tarunchaudhry.com/lightspeed
-Live DEMO: http://tarunchaudhry.com/lightspeed/demo
+Live Demo: http://jsbin.com/pikek
 
-Code is Copyright (c) 2011 Tarun Chaudhry
+Code is Copyright (c) 2011 - 2014 Tarun Chaudhry
 
 LICENSE:
 GNU GPL v3
